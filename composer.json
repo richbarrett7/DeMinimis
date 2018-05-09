@@ -1,0 +1,16 @@
+{
+    "name": "richbarrett/de-minimis",
+    "description": "Get the De Minimis for any given country",
+    "authors": [
+        {
+            "name": "Richard Barrett",
+            "email": "rich@parcelmonkey.com"
+        }
+    ],
+    "require": {},
+  	"autoload": {
+  		"classmap": [
+  		"src/deminimis.php"
+  		]
+  	}
+}
